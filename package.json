@@ -1,0 +1,15 @@
+{
+  "name": "rh-static",
+  "version": "0.0.4",
+  "description": "静态资源",
+  "main": "/",
+  "unpkg": "/",
+  "jsdelivr": "/",
+  "scripts": {
+    "patch": "npm version patch -f",
+    "pub": "npm publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

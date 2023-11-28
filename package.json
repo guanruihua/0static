@@ -1,6 +1,6 @@
 {
-  "name": "rh-static",
-  "version": "0.0.4",
+  "name": "0static",
+  "version": "0.0.1",
   "description": "静态资源",
   "main": "/",
   "unpkg": "/",

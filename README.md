@@ -1,6 +1,6 @@
 # 0static
 
-用于书写测试案例
+* [`geojson`]('./GEO_README.md')
 
 ## 使用
 

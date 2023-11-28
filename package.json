@@ -1,6 +1,6 @@
 {
   "name": "0static",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "静态资源",
   "main": "/",
   "unpkg": "/",
@@ -10,6 +10,6 @@
     "pub": "npm publish"
   },
   "keywords": [],
-  "author": "",
+  "author": "ruihuag",
   "license": "ISC"
 }

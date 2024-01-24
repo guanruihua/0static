@@ -6,7 +6,7 @@
 ## 使用
 
 ```js
-https://cdn.jsdelivr.net/npm/0static@0.0.1/geo/World.json
+https://cdn.jsdelivr.net/npm/0static/geo/World.json
 ```
 
 ## World

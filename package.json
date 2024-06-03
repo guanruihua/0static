@@ -1,15 +1,19 @@
 {
   "name": "0static",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "静态资源",
   "main": "/",
   "unpkg": "/",
   "jsdelivr": "/",
   "scripts": {
+    "start": "node ./config/tree.js",
     "patch": "npm version patch -f",
     "pub": "npm publish"
   },
   "keywords": [],
   "author": "ruihuag",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "0file-system": "workspace:^"
+  }
 }
